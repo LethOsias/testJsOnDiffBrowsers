@@ -1,4 +1,4 @@
-//test coomit for appmixer
+//test commit for appmixer
 (function(document) {
   //format: m/d/yyyy h:m am
   function formatDate(date) {
